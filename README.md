@@ -53,31 +53,6 @@ Semua kategori menunjukkan tren peningkatan linear, baik dalam data aktual maupu
 Persediaan pakaian memiliki peningkatan paling signifikan dibandingkan kategori lainnya.
 
 Apakah terdapat hubungan linier antara jumlah pembelian bahan baku dan jumlah produksi untuk masing-masing produk (pakaian, sepatu, tas)? Jika ada, berapa kekuatan hubungan tersebut dan bagaimana persamaan regresinya?
-![image](https://github.com/faizfairuzikbar/fashion-industry-trends/assets/167222911/d0c0d4ff-0f6e-40c4-8fb9-2ef10e691114)
-Interpretasi Visualisasi
-Pembelian A vs Produksi Pakaian:
-Sumbu X: Pembelian A
-Sumbu Y: Produksi Pakaian
-Garis merah: Menunjukkan regresi linier dengan persamaan Y = 0.89X + 17.27 dan korelasi r = 0.99.
-Interpretasi:
-Korelasi sangat kuat (r mendekati 1), menunjukkan bahwa ada hubungan positif yang kuat antara pembelian bahan baku A dan produksi pakaian.
-Slope positif (0.89) menunjukkan bahwa setiap peningkatan dalam pembelian bahan baku A akan meningkatkan produksi pakaian.
-Pembelian B vs Produksi Sepatu:
-Sumbu X: Pembelian B
-Sumbu Y: Produksi Sepatu
-Garis merah: Menunjukkan regresi linier dengan persamaan Y = 0.55X + 4.55 dan korelasi r = 0.99.
-Interpretasi:
-Korelasi sangat kuat (r mendekati 1), menunjukkan bahwa ada hubungan positif yang kuat antara pembelian bahan baku B dan produksi sepatu.
-Slope positif (0.55) menunjukkan bahwa setiap peningkatan dalam pembelian bahan baku B akan meningkatkan produksi sepatu.
-Pembelian C vs Produksi Tas:
-Sumbu X: Pembelian C
-Sumbu Y: Produksi Tas
-Garis merah: Menunjukkan regresi linier dengan persamaan Y = 0.56X + 7.09 dan korelasi r = 0.99.
-Interpretasi:
-Korelasi sangat kuat (r mendekati 1), menunjukkan bahwa ada hubungan positif yang kuat antara pembelian bahan baku C dan produksi tas.
-Slope positif (0.56) menunjukkan bahwa setiap peningkatan dalam pembelian bahan baku C akan meningkatkan produksi tas.
-
-Apakah terdapat hubungan linier antara jumlah pembelian bahan baku dan jumlah produksi untuk masing-masing produk (pakaian, sepatu, tas)? Jika ada, berapa kekuatan hubungan tersebut dan bagaimana persamaan regresinya?
 ![image](https://github.com/faizfairuzikbar/fashion-industry-trends/assets/167222911/c3f37eb1-5f15-4a33-92dd-72e7972ff405)
 persamaan regresinya 
 ![image](https://github.com/faizfairuzikbar/fashion-industry-trends/assets/167222911/0222d764-bc9f-4a93-80ad-fec442211cae)
